@@ -1,3 +1,3 @@
 function botaoRenan(){
-    document.getElementById("btn").innerHTML = "Que botão Maravilhoso";
+    document.getElementById("btn").innerHTML = "VIRA BRINQUEDO";
 }
